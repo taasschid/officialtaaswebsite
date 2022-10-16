@@ -1,6 +1,6 @@
 # kindergarten-website-template
 
-    KidKinder is a preschool website template designed to build websites for kindergarten,
+    Taas.Sch.ID is a preschool website template designed to build websites for kindergarten,
     
     school of early learning, preschool, primary school, elementary school,
     
